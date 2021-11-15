@@ -1,7 +1,3 @@
-### Hi there 👋
-
-I'm a **software engineer**, graduating in **2021** from **the university of Rostock** in **Computer Science**. I enjoy working with embedded systems and low level programming languages. In my free time I like to watch movies, read blogs and do extensive running sessions. I am open to collaborate on interesting projects.
-
 ## Skill Set 
 
 These are some of the major technologies that I use or have worked on in the past:
