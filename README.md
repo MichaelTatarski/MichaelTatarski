@@ -1,6 +1,6 @@
 ## Skill Set 
 
-These are some of the major technologies that I use or have worked on in the past:
+My name is Michael and I'm a software engineer at Siemens. I mainly enjoy programming on the system or driver layer of a system.
 
 **Programming Languages**
 
