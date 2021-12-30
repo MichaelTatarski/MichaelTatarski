@@ -1,6 +1,6 @@
 ## Skill Set 
 
-My name is Michael and I'm a Software Engineer at Siemens in Nuremberg. I mainly enjoy programming on the system and driver layer of a system.
+My name is Michael and I'm a Software Engineer at Siemens in Nuremberg. I mainly enjoy programming on the system and driver layer.
 
 **Programming Languages**
 
